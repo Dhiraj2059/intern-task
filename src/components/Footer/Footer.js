@@ -40,13 +40,14 @@ const Footer = () => {
           <div className="footer-section contact">
             <h3>Contact Info</h3>
             <p><i className="address-icon"></i> Lalitpur, Nepal</p>
-            <p><i className="email-icon"></i> info@tasktest.com</p>
-            <p><i className="phone-icon"></i> +977 1234567890</p>
+            <p><i className="email-icon"></i> info@dhirajran0307@gmail.com</p>
+            <p><i className="phone-icon"></i> +977 9847435111</p>
+            <p><i className="github-icon"></i> https://github.com/Dhiraj2059</p>
           </div>
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {currentYear} Task Test. All rights reserved.</p>
+          <p>&copy; {currentYear} Dhiraj Rana TaskTest. All rights reserved.</p>
         </div>
       </div>
     </footer>

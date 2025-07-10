@@ -47,6 +47,10 @@
   background-color: #ff0000;
 }
 
+.github {
+  background-color: #333333;
+}
+
 @media (max-width: 768px) {
   .social-links {
     position: static;

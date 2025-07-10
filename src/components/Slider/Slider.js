@@ -21,21 +21,21 @@ const HeroSlider = () => {
         <div className="slide slide-1">
           <div className="slide-content">
             <h1>Digital Marketing Experts</h1>
-            <p>A unique blend of creative, editorial, digital and technical experts obsessed with getting quantifiable results.</p>
+            <p>This page is about to relate intern assessment of aakashlabs. Created with React JS</p>
             <button className="cta-button">Learn More</button>
           </div>
         </div>
         <div className="slide slide-2">
           <div className="slide-content">
             <h1>Web Development Solutions</h1>
-            <p>We build websites of all types as per the requirements of our clients with seamless user experience.</p>
+            <p>This page is about to relate intern assessment of aakashlabs. Created with React JS</p>
             <button className="cta-button">Our Services</button>
           </div>
         </div>
         <div className="slide slide-3">
           <div className="slide-content">
             <h1>Logo & Branding</h1>
-            <p>User experience (UX) and interface (UI) design goes beyond the appearance of a product.</p>
+            <p>This page is about to relate intern assessment of aakashlabs. Created with React JS</p>
             <button className="cta-button">Contact Us</button>
           </div>
         </div>

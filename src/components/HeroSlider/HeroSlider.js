@@ -10,7 +10,7 @@ const HeroSlider = () => {
       id: 1,
       image: 'https://source.unsplash.com/random/1600x900/?technology',
       title: 'Innovative Solutions',
-      description: 'We create cutting-edge digital experiences that transform businesses',
+      description: 'This page is about to relate intern assessment of aakashlabs. Created with React JS',
       cta: 'Learn More',
       url: '/about'
     },
@@ -18,7 +18,7 @@ const HeroSlider = () => {
       id: 2,
       image: 'https://source.unsplash.com/random/1600x900/?business',
       title: 'Strategic Development',
-      description: 'Custom software solutions tailored to your business needs',
+      description: 'This page is about to relate intern assessment of aakashlabs. Created with React JS',
       cta: 'Our Services',
       url: '/services'
     },
@@ -26,7 +26,7 @@ const HeroSlider = () => {
       id: 3,
       image: 'https://source.unsplash.com/random/1600x900/?digital',
       title: 'Digital Excellence',
-      description: 'Elevate your brand with our comprehensive digital services',
+      description: 'This page is about to relate intern assessment of aakashlabs. Created with React JS',
       cta: 'Contact Us',
       url: '/contact'
     }

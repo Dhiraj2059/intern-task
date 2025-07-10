@@ -71,11 +71,11 @@ const Contact = () => {
             </div>
             <div className="info-item">
               <h3>Email</h3>
-              <p>info@tasktest.com</p>
+              <p>info@dhirajran0307@gmail.com</p>
             </div>
             <div className="info-item">
               <h3>Phone</h3>
-              <p>+977 1234567890</p>
+              <p>+977 9847435111</p>
             </div>
             <div className="info-item">
               <h3>Working Hours</h3>
