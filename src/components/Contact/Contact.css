@@ -142,7 +142,34 @@ textarea {
     flex-direction: column;
   }
   
+  .contact-info,
+  .contact-form {
+    min-width: unset;
+    width: 100%;
+  }
+
   .submit-btn {
     width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-section {
+    padding: 40px 0;
+  }
+
+  .section-title {
+    font-size: 1.8rem;
+  }
+
+  .info-item h3 {
+    font-size: 1.1rem;
+  }
+
+  .info-item p,
+  input,
+  textarea,
+  .submit-btn {
+    font-size: 0.9rem;
   }
 }

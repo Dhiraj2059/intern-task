@@ -110,3 +110,34 @@ button {
     transform: rotate(360deg);
   }
 }
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .container {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  .App-header {
+    font-size: calc(12px + 2vmin);
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 10px;
+  }
+
+  .App-header {
+    font-size: calc(14px + 2vmin);
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+}
