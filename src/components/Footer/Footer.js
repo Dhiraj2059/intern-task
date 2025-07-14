@@ -40,7 +40,7 @@ const Footer = () => {
           <div className="footer-section contact">
             <h3>Contact Info</h3>
             <p><i className="address-icon"></i> Lalitpur, Nepal</p>
-            <p><i className="email-icon"></i> info@dhirajran0307@gmail.com</p>
+            <p><i className="email-icon"></i> info@dhirajrana0307@gmail.com</p>
             <p><i className="phone-icon"></i> +977 9847435111</p>
             <p><i className="github-icon"></i> https://github.com/Dhiraj2059</p>
           </div>
